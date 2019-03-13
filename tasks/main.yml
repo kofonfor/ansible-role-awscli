@@ -1,0 +1,2 @@
+- name: install awscli
+  apt: name=awscli
